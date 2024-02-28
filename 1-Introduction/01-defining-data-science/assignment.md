@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Learning deficit in students | Pupil perceptions of the school (e.g. things they like best about their education) | Surveys and interviews with students | Compare and select the things students benefit most from |
+| Vaccination | Vaccine adverse events experienced by people | Data from people who experienced adverse events with the vaccine | Use existing adverse effect reporting datasets to examine data from people by age, gender, vaccine manufacturer and dose | Compare the frequency of adverse events among the information examined |
+| Productivity | Improve employee performance in a work team | Employee time and attendance | Use a real-time tool to monitor employee work hours and time spent on particular tasks | Spot patterns, assess productivity levels, and identify where time is wasted |
 
 ## Rubric
 
